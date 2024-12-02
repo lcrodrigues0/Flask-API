@@ -7,5 +7,5 @@ print(response.json())
 
 input()
 
-response = requests.get(BASE + "video/1")
+response = requests.get(BASE + "video/2")
 print(response.json())
